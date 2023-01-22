@@ -17,3 +17,5 @@ Nah! Just want to talk to someone
 What would you like to talk about?
 
 Sorry! We allow only to serve customers... Bye!
+
+_**Я делаю изменения без форка чтоли?**_
