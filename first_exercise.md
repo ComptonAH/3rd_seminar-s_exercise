@@ -12,7 +12,9 @@ Special row for the fifth *commit*
 
 Hello there! How can I help you?
 
-Nah! Just want to talk to someone
+Hello! I'd like to make some changes
+
+Nah! Just want to talk to you 
 
 What would you like to talk about?
 
