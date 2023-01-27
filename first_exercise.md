@@ -14,7 +14,7 @@ Hello there! How can I help you?
 
 Nah! Just want to talk to someone
 
-What would you like to talk about?
+I'm so busy!Sorry(
 
 Sorry! We allow only to serve customers... Bye!
 
